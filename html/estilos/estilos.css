@@ -1,0 +1,21 @@
+#principal{
+  	background-color: #97CDD8;
+  }
+p{
+	padding: 10px;margin:40px; border: double;border-color: white;border-radius: 40px; 
+}
+
+h1{
+	font-family: 'Monoton', cursive; color:lightyellow;
+}
+#text{
+	font-family: 'Press Start 2P', cursive;
+}
+
+#text:hover{
+	background-color: pink;
+}
+
+#imagen{
+	border-radius: 70px;
+}
